@@ -5,5 +5,5 @@ Feature: New feature
 
   Scenario: New scenario
     Given I launch ""
-    When I click
+    When I click "Login Button" on Page
     Then ...
